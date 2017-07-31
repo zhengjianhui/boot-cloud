@@ -22,6 +22,7 @@
 		<module>api-gateway</module>
 		<module>amqp_consumer</module>
 		<module>amqp_producer</module>
+		<module>config_server</module>
 	</modules>
 
 	<dependencyManagement>
